@@ -1,0 +1,11 @@
+###########################
+# xbindkeys configuration #
+###########################
+
+"~/bin/wrksp_switch.sh left"
+b:8
+
+"~/bin/wrksp_switch.sh right"
+b:9
+
+
